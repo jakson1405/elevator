@@ -1,0 +1,36 @@
+.row {
+    background: #f8f9fa;
+    margin-top: 20px;
+  }
+  
+  .col {
+    
+    border: solid 1px #6c757d;
+    padding: 10px;
+  }
+  
+  button {
+    background: #0084ff;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 14px;
+    font-size: 15px;
+    color: #fff;
+  }
+  
+  .lift {
+    background-color: black !important;
+    border: solid 1px #6c757d;
+    padding: 10px;
+    transition: 1s;
+  
+  }
+  .lift_2{
+    background-color: black !important;
+    border: solid 1px #6c757d;
+    padding: 10px;
+    transition: 1s;
+    
+  }
+  
+  
